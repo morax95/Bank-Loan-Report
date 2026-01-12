@@ -1,10 +1,7 @@
-# 🏦 Bank-Loan-Report: Análisis Estratégico de Cartera de Préstamos
+# 🏦 Análisis Estratégico de Cartera de Préstamos
 
-## El Arsenal del Detective de Datos 🛠️
+## Este proyecto demuestra un dominio completo del ciclo de vida del análisis de datos, utilizando las siguientes herramientas:
 
-Este proyecto demuestra un dominio completo del ciclo de vida del análisis de datos, utilizando las siguientes herramientas:
-
-Aplicación en el Proyecto
   * SQL(SSMS): Extracción, transformación y cálculo de métricas complejas (KPIs). Se utilizó para calcular **MTD (Month-to-Date)** y **MoM (Month-over-Month)**, y para la clasificación de rendimiento.
 
   * Power BI: Utilizado para la visualización de la narrativa de los datos.
